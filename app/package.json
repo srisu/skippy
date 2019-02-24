@@ -1,0 +1,28 @@
+{
+  "name": "skippy",
+  "version": "1.0.0",
+  "description": "A Self Checkout Application for Convenience Stores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srisu/skippy.git"
+  },
+  "keywords": [
+    "self",
+    "checkout",
+    "ecommerce",
+    "skip",
+    "lines",
+    "in",
+    "stores"
+  ],
+  "author": "Sri Su",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srisu/skippy/issues"
+  },
+  "homepage": "https://github.com/srisu/skippy#readme"
+}
